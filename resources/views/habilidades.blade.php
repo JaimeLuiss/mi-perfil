@@ -23,12 +23,13 @@
     </header>
 
     <main>
+
         <section class="card">
-            <h2>Skills técnicas</h2>
+            <h2>Habilidades técnicas</h2>
 
             <p>
-                En esta sección presento mis principales habilidades
-                y conocimientos técnicos.
+                Algunas de las tecnologías y herramientas que
+                estoy aprendiendo y utilizando:
             </p>
 
             <ul>
@@ -36,8 +37,10 @@
                 <li>PHP</li>
                 <li>Laravel</li>
                 <li>Git y GitHub</li>
+                <li>Desarrollo de aplicaciones web</li>
             </ul>
         </section>
+
     </main>
 
     <footer>

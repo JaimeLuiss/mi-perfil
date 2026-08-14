@@ -23,15 +23,28 @@
     </header>
 
     <main>
+
+        <section class="card profile-intro">
+            <h2>¡Hola! Soy estudiante de Ingeniería de Sistemas</h2>
+
+            <p>
+                Este sitio presenta información sobre mi perfil,
+                mis intereses, mis habilidades y mis objetivos
+                académicos y profesionales.
+            </p>
+        </section>
+
         <section class="card">
             <h2>Información personal</h2>
 
             <p>
-                Bienvenido a mi perfil personal.
-                En esta sección encontrarás información sobre mí,
-                mis intereses, habilidades y metas profesionales.
+                Me interesa el desarrollo de software y la creación
+                de soluciones tecnológicas. Actualmente estoy
+                fortaleciendo mis conocimientos en programación,
+                desarrollo web y herramientas de control de versiones.
             </p>
         </section>
+
     </main>
 
     <footer>

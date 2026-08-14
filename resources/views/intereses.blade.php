@@ -23,20 +23,23 @@
     </header>
 
     <main>
+
         <section class="card">
             <h2>Pasatiempos y gustos</h2>
 
             <p>
-                En esta sección presento algunos de mis principales
-                pasatiempos, intereses y actividades favoritas.
+                Estos son algunos de los temas y actividades
+                que más me interesan.
             </p>
 
             <ul>
-                <li>Tecnología</li>
+                <li>Tecnología y desarrollo de software</li>
                 <li>Videojuegos</li>
-                <li>Aprender nuevas habilidades</li>
+                <li>Aprendizaje de nuevas tecnologías</li>
+                <li>Computación y sistemas</li>
             </ul>
         </section>
+
     </main>
 
     <footer>

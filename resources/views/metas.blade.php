@@ -23,21 +23,27 @@
     </header>
 
     <main>
-        <section class="card">
-            <h2>Objetivos profesionales</h2>
 
-            <p>
-                En esta sección presento mis principales objetivos
-                académicos y profesionales.
-            </p>
+        <section class="card">
+            <h2>Objetivos académicos</h2>
 
             <ul>
                 <li>Finalizar mi carrera de Ingeniería de Sistemas.</li>
-                <li>Fortalecer mis conocimientos en desarrollo backend.</li>
-                <li>Desarrollar proyectos de software funcionales.</li>
+                <li>Fortalecer mis conocimientos de programación.</li>
+                <li>Mejorar mis habilidades para desarrollar proyectos.</li>
+            </ul>
+        </section>
+
+        <section class="card">
+            <h2>Objetivos profesionales</h2>
+
+            <ul>
+                <li>Desarrollarme como profesional en tecnología.</li>
+                <li>Participar en proyectos de desarrollo de software.</li>
                 <li>Continuar aprendiendo nuevas tecnologías.</li>
             </ul>
         </section>
+
     </main>
 
     <footer>
