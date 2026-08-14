@@ -1,6 +1,8 @@
 # Mi Perfil - Jaime Luis Rueda Arenales
 
+
 ![Foto de perfil](public/images/foto.jpg)
+
 
 ## Descripción
 
