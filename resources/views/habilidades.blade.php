@@ -4,24 +4,45 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mis Habilidades</title>
+
+    <link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 </head>
+
 <body>
 
-    <h1>Mis Habilidades</h1>
+    <header>
+        <h1>Mis Habilidades</h1>
 
-    <h2>Skills técnicas</h2>
+        <nav>
+            <a href="/">Inicio</a>
+            <a href="/perfil">Perfil</a>
+            <a href="/perfil/intereses">Intereses</a>
+            <a href="/perfil/habilidades">Habilidades</a>
+            <a href="/perfil/metas">Metas</a>
+        </nav>
+    </header>
 
-    <p>
-        En esta sección presentaré mis principales habilidades
-        y conocimientos técnicos.
-    </p>
+    <main>
+        <section class="card">
+            <h2>Skills técnicas</h2>
 
-    <ul>
-        <li>HTML y CSS</li>
-        <li>PHP</li>
-        <li>Laravel</li>
-        <li>Git y GitHub</li>
-    </ul>
+            <p>
+                En esta sección presento mis principales habilidades
+                y conocimientos técnicos.
+            </p>
+
+            <ul>
+                <li>HTML y CSS</li>
+                <li>PHP</li>
+                <li>Laravel</li>
+                <li>Git y GitHub</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Mi Perfil - Desarrollo Backend</p>
+    </footer>
 
 </body>
 </html>

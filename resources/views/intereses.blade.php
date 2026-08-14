@@ -4,23 +4,44 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Mis Intereses</title>
+
+    <link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 </head>
+
 <body>
 
-    <h1>Mis Intereses</h1>
+    <header>
+        <h1>Mis Intereses</h1>
 
-    <h2>Pasatiempos y gustos</h2>
+        <nav>
+            <a href="/">Inicio</a>
+            <a href="/perfil">Perfil</a>
+            <a href="/perfil/intereses">Intereses</a>
+            <a href="/perfil/habilidades">Habilidades</a>
+            <a href="/perfil/metas">Metas</a>
+        </nav>
+    </header>
 
-    <p>
-        En esta sección presentaré mis principales pasatiempos,
-        intereses y actividades favoritas.
-    </p>
+    <main>
+        <section class="card">
+            <h2>Pasatiempos y gustos</h2>
 
-    <ul>
-        <li>Tecnología</li>
-        <li>Videojuegos</li>
-        <li>Aprender nuevas habilidades</li>
-    </ul>
+            <p>
+                En esta sección presento algunos de mis principales
+                pasatiempos, intereses y actividades favoritas.
+            </p>
+
+            <ul>
+                <li>Tecnología</li>
+                <li>Videojuegos</li>
+                <li>Aprender nuevas habilidades</li>
+            </ul>
+        </section>
+    </main>
+
+    <footer>
+        <p>Mi Perfil - Desarrollo Backend</p>
+    </footer>
 
 </body>
 </html>
